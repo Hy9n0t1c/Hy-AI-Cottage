@@ -55,7 +55,7 @@
 
 ## 未来计划
 对接[FastGPT](https://github.com/labring/FastGPT)向量知识库，实现特殊需求的AI制作设计，对接更加多样化的QQ机器人，实现更多个性化定制功能 
-[知识库展示](./base.png)
+![知识库展示](./base.png)
 
 
 ## 借鉴项目
