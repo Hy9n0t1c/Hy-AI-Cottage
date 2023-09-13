@@ -1,8 +1,9 @@
-> 特别提醒：此项目应仅限于学习和交流使用，如若用于商业用途，请确保符合当地法律法规
+> 特别提醒：此项目应仅限于学习和交流使用，请遵循当地法律法规进行使用
 
 
   
-<h1 align="center">zxyt-AI</h1>
+<a href="https://neu.zxyt.top"><h1 align="center">zxyt-AI</h1></a>
+
 
 
 
