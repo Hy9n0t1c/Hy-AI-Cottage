@@ -48,10 +48,13 @@
 1. 如果上述回答没能解决你的问题，请联系站长进行反馈，我会在后面继续完善用户使用指南。
 
 
-
-
-
-
+## 借鉴项目
+[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+[chatgpt-next-web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+[one-api](https://github.com/songquanpeng/one-api)
+[chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)
+[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+[FastGPT](https://github.com/labring/FastGPT)
 
 
 
