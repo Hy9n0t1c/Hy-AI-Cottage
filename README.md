@@ -49,12 +49,12 @@
 
 
 ## 借鉴项目
-[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
-[chatgpt-next-web](https://github.com/Yidadaa/ChatGPT-Next-Web)
-[one-api](https://github.com/songquanpeng/one-api)
-[chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)
-[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
-[FastGPT](https://github.com/labring/FastGPT)
+[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)    
+[chatgpt-next-web](https://github.com/Yidadaa/ChatGPT-Next-Web)    
+[one-api](https://github.com/songquanpeng/one-api)    
+[chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)    
+[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)    
+[FastGPT](https://github.com/labring/FastGPT)    
 
 
 
