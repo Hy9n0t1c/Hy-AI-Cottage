@@ -47,6 +47,11 @@
 
 1. 如果上述回答没能解决你的问题，请联系站长进行反馈，我会在后面继续完善用户使用指南。
 
+## 现状展示
+
+## 未来计划
+对接[FastGPT](https://github.com/labring/FastGPT)向量知识库，实现特殊需求的AI制作设计，对接更加多样化的QQ机器人，实现更多个性化定制功能 
+
 
 ## 借鉴项目
 [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)    
