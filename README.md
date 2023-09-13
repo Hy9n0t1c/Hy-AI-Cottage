@@ -1,5 +1,56 @@
 # [zxyt-AI](https://neu.zxyt.top)
 
+
+
+> 特别提醒：此项目应仅限于学习和交流使用，如若用于商业用途，请确保符合当地法律法规
+
+<div align="center" style="margin-bottom: 10px;">
+<img src="./docs/images/icon.svg" alt="logo"/>
+  
+<h1 align="center">zxyt-AI</h1>
+
+**简体中文** 
+
+
+
+  <table>
+    <tbody>
+      <tr>
+        <td>
+         <a href="#一键部署">📝一键部署</a> 
+        </td>
+        <td>
+         <a href="https://nanjiren.online" target="_blank">🌏官方网站</a>
+        </td>
+        <td>
+         <a href="#演示站点">🎭演示站点</a>
+        </td>
+        <td> 
+         <a href="#项目优势">😍项目优势</a> 
+        </td>
+        <td>
+         <a href="#交流">💬合作交流</a>
+        </td>
+        <td> 
+         <a href="#ai好望角">👨‍👩‍👧‍👦社区论坛</a>
+        </td>
+        <td> 
+         <a href="#优秀案例">📕优秀案例</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+![img](https://nanjiren.online/images/preview.png)
+
+</div>
+
+本项目基于[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web.git)
+
+🧡💛💚💙💜🤎🖤🧡💛💚💙💜🤎🖤🧡💛💚💙💜🤎🧡💛💚💙💜🤎🖤🧡💛💚💙💜🤎🖤🧡💛💚
+
+
+
 ## 前言
 
 2023年3月，我第一次接触ChatGPT，被它强大的能力所震撼。然而，受限于国内特殊的网络环境和OpenAI对IP的严格封锁，我在官网使用ChatGPT的体验感很糟糕，经常遇到各种blocked和输出中断的问题。这让我萌生了在微信上部署自己的ChatGPT机器人的想法。
