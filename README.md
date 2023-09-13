@@ -3,10 +3,11 @@
 
   
 <a href="https://neu.zxyt.top">
-  <h1 align="center">zxyt-AI</h1>
+  <h1 align="center"><strong>zxyt-AI</strong></h1>
 </a>
 
 <img src="https://nanjiren.online/images/preview.png" alt="Preview Image">
+
 
 本项目基于[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web.git)
 
