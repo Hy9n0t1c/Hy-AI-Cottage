@@ -4,37 +4,7 @@
   
 <h1 align="center">zxyt-AI</h1>
 
-**简体中文** 
 
-
-
-  <table>
-    <tbody>
-      <tr>
-        <td>
-         <a href="#一键部署">📝一键部署</a> 
-        </td>
-        <td>
-         <a href="https://nanjiren.online" target="_blank">🌏官方网站</a>
-        </td>
-        <td>
-         <a href="#演示站点">🎭演示站点</a>
-        </td>
-        <td> 
-         <a href="#项目优势">😍项目优势</a> 
-        </td>
-        <td>
-         <a href="#交流">💬合作交流</a>
-        </td>
-        <td> 
-         <a href="#ai好望角">👨‍👩‍👧‍👦社区论坛</a>
-        </td>
-        <td> 
-         <a href="#优秀案例">📕优秀案例</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
 
 ![img](https://nanjiren.online/images/preview.png)
 
